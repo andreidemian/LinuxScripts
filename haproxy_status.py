@@ -15,7 +15,7 @@ HAPROXY_USER = 'admin'
 HAPROXY_PASS = 'password'
 
 ## Connect
-MAIL_smtp = '172.21.34.80'
+MAIL_smtp = '192.168.1.2'
 MAIL_port = 25
 
 ### Auth
